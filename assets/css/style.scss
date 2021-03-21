@@ -3,11 +3,21 @@
 
 @import "{{ site.theme }}";
 
-* {
-  color:rgb(201, 209, 217);
-}
-
 body {
   background-color: rgb(13, 17, 23);
   color:rgb(201, 209, 217);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:rgb(201, 209, 217);
+}
+
+a {
+  color:rgb(240, 123, 114);
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:rgb(192, 91, 84);
+  font-weight: bold;
 }
