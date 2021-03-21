@@ -19,5 +19,10 @@ a {
 
 a:hover, a:focus {
   color:rgb(192, 91, 84);
-  font-weight: bold;
+  font-weight: normal;
+}
+
+strong {
+  color:rgb(201, 209, 217);
+  font-weight:700;
 }
