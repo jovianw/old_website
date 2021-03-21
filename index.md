@@ -8,4 +8,4 @@ I'm an undergraduate student at **Vanderbilt University**, majoring in **Compute
 
 I'm currently looking for research and intership opportunities involving computer science, robotics, and machine learning.
 
-If you're looking for my resume, you can find it [here](assets/JovianWang_Resume.pdf){:target="_blank" .red .hover-dark-red}. If you'd like to get in touch, don't hesitate to email me at [wg.jovian@gmail.com](mailto: wg.jovian@gmail.com){: .red .hover-dark-red}.
+If you're looking for my resume, you can find it [here](assets/JovianWang_Resume.pdf){:target="_blank"}. If you'd like to get in touch, don't hesitate to email me at [wg.jovian@gmail.com](mailto: wg.jovian@gmail.com).
