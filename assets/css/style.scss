@@ -22,6 +22,11 @@ a:hover, a:focus {
   font-weight: normal;
 }
 
+img {
+  max-width:100%;
+  border-radius:5px;
+}
+
 ul.downloads {
   list-style:none;
   height:27px;
