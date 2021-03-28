@@ -4,7 +4,7 @@ layout: default
 
 ### Hello! I'm Jovian Wang.
 
-I'm an undergraduate student at **Vanderbilt University**, majoring in **Computer Science and Mathematics**. I love developing silly applications, playing tennis, rock climbing, [digital art](/extras/art){:class="body"}, and [robotics](/extras/robotics){:class="body"}. </p>
+I'm an undergraduate student at **Vanderbilt University**, majoring in **Computer Science and Mathematics**. I love developing silly applications, playing tennis, rock climbing, [digital art](/extras/art){:class="body"}, and [robotics](/extras/robotics){:class="body"}.
 
 I'm currently looking for research and intership opportunities involving computer science, robotics, and machine learning.
 
