@@ -17,11 +17,11 @@ If you're looking for my resume, you can find it [here](assets/JovianWang_Resume
 ![Building](/assets/art_4.png)
 *Branscomb, first made with gouache, recreated with Illustrator*
 
-![Forest](/assets/art_1.png)
+![Forest](/assets/art_1.jpg)
 *First digital art, Procreate*
 
-![Barack Obama](/assets/art_2.png)
+![Barack Obama](/assets/art_2.jpg)
 *Dnd Character, Procreate*
 
-![People](/assets/art_3.png)
+![People](/assets/art_3.jpg)
 *Rain, Procreate*
