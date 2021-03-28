@@ -2,14 +2,22 @@
 layout: default
 ---
 
-<hr><br>
+### Hello! I'm Jovian Wang.
 
-<figure>
-    <img src="/assets/robotics_1.jpg" alt="VURobotics" style="width:100%">
-    <figcaption><i>Vanderbilt University Robotics</i><br><br></figcaption>
-</figure>
+I'm an undergraduate student at **Vanderbilt University**, majoring in **Computer Science and Mathematics**. I love developing silly applications, playing tennis, rock climbing, [digital art](/extras/art){:class="body"}, and [robotics](/extras/robotics){:class="body"}.
 
-<figure>
-    <img src="/assets/robotics_2.jpg" alt="VEX Robotics" style="width:100%">
-    <figcaption><i>VEX Robotics</i><br><br></figcaption>
-</figure>
+I'm currently looking for research and intership opportunities involving computer science, robotics, and machine learning.
+
+If you're looking for my resume, you can find it [here](assets/JovianWang_Resume.pdf){:target="_blank"}. If you'd like to get in touch, don't hesitate to email me at [wg.jovian@gmail.com](mailto: wg.jovian@gmail.com).
+
+
+---
+
+
+## Robotics
+
+![VURobotics](/assets/robotics_1.jpg)
+*Vanderbilt University Robotics*
+
+![VEX Robotics](/assets/robotics_2.jpg)
+*VEX Robotics*
