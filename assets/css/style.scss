@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "{{ site.theme }}";
 
 body {
   background-color: rgb(13, 17, 23);
@@ -96,7 +97,7 @@ ul.downloads {
 }
 
 .downloads ul a:active {
-  background-color:#2023e0;
+  background-color:#2023e0  !important;
 }
 
 .downloads li + li + li {
@@ -114,6 +115,3 @@ strong {
   color:rgb(240, 246, 252);
   font-weight:700;
 }
-
-
-@import "{{ site.theme }}";
