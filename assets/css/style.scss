@@ -1,7 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 
 body {
   background-color: rgb(13, 17, 23);
@@ -115,3 +114,6 @@ strong {
   color:rgb(240, 246, 252);
   font-weight:700;
 }
+
+
+@import "{{ site.theme }}";
